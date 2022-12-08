@@ -8,4 +8,4 @@
 
 4、下面是批量刷洞的结果
 
-![image](.\butian.png)
+![image](butian.png)
